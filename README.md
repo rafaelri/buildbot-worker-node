@@ -1,0 +1,1 @@
+Buildbot worker alpine based image built on top of rafaelri/buildbot-worker-alpine that has node installed and also docker with setuid permission in order to be able to access host Docker daemon using bind volume mounts.
